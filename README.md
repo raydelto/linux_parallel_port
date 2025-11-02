@@ -29,3 +29,7 @@ sudo usermod -a -G lp $USER
 ```
 
 You will need to log out and log back in for this change to take effect.
+
+### Youtube video
+I have created the following [Youtube short](https://youtube.com/shorts/hfSnNnBhJtc) showing how this software works for controlling the parallel port
+
